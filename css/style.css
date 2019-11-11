@@ -43,4 +43,9 @@ body {
   margin: -5px 0px 0px 0px;
 }
 
+.new {
+  background-color: #ff00aa;
+  color: white;
+}
+
 /*#endregion*/
