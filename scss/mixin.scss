@@ -1,0 +1,7 @@
+@mixin margin($value...) {
+  margin: $value;
+}
+
+@mixin padding($value...) {
+  padding: $value;
+}
